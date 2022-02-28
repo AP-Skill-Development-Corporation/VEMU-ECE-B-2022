@@ -1,0 +1,95 @@
+Day-01[28-02-2022]:
+====================
+	Good Morning to All..
+
+
+Python Introduction:
+====================
+	
+Python Downloads:
+=================
+	- https://python.org
+	- Downloads
+	- Select the operating system
+	- It displays 2 columns
+		- stable release
+		- pre-release
+	- We need to select the version of python
+		- cntrl + f
+		- python 3.7.5
+	- We need to select only on stable releases side for downloads
+	- In stable releases it displays with different extension files in that we need to select "executeable file"
+	- We need to select the bit for downloading the required version of python 
+
+Python Installation:
+====================
+	- First we need to double tap on the downloaded software
+	- It will displays 2 options and 2 checkboxes
+		- 2 options:
+			- install now
+			- customize installation
+		- 2 checkboxes
+			- user permissions
+			- add path
+	- We need to select those 2 options and need to click on the "Install now" option to further installations
+	- After installation it will diplays the window with "successfully installed" then we need to click on the finish button to close the window
+
+Python Version Check:
+=====================
+	- cmd
+	- python -V
+
+Different ways to execute a python program:
+===========================================
+	- Basic Procedure
+	- Advanced Editor
+	- IDLE
+	- Jupyter notebook
+
+Basic Procedure:
+================
+	- Notepad + interpreter
+	- cmd
+	- filename.py
+		or
+	- python filename.py
+
+Advanced Editor:
+================
+	- Notepad++,Geany,Editplus,Sublime,Atom etc.,
+	-
+
+IDLE => Integrated Development Learning Environment:
+===============================================
+
+Pip:
+====
+	- To install third party packages
+
+Pip Version Check:
+==================
+	- cmd
+	- pip -V
+
+Jupyter notebook installation:
+==============================
+	- cmd
+	- pip install jupyter notebook
+
+	Upgrade pip
+	===========
+		- python -m pip install --upgrade pip
+	- pip -V
+
+Jupyter notebook running:
+=========================
+	- cmd
+	- jupyter notebook
+
+
+
+
+
+
+
+
