@@ -4,3 +4,9 @@
   - Downloads,installation of python and jupyter notebook
   - Different ways to execute python programs
   - Brief Explanation of Jupyter notebook useage
+
+## Day-02(02-03-2022):
+  - Variables and different ways to initialize
+  - Input and output formatting,type method and typecasting with example on each
+  - Operators and its useages
+  - Conditional Statements (if) with sample on it 
