@@ -9,4 +9,8 @@
   - Variables and different ways to initialize
   - Input and output formatting,type method and typecasting with example on each
   - Operators and its useages
-  - Conditional Statements (if) with sample on it 
+  - Conditional Statements (if) with sample example on it 
+
+## Day-03(03-03-2022):
+  - Conditional Statements with sample examples on each
+  - Control Statements (for) with sample examples on it
