@@ -1,0 +1,48 @@
+Task:
+=====
+	Try to complete the registration process
+	- Concepts
+	===========
+		- While
+		- Jumping Statements
+		- Nested Loop
+		- Functions and its types
+
+Task-1:
+=======
+
+	Input-1:
+	========
+		6
+	Output-1:
+	=========
+		6 x 01 = 06
+		6 x 02 = 12
+		 |		|
+		6 x 10 = 60
+
+Task-2:
+=======
+	Input-1:
+	========
+		18
+		22
+	Output-1:
+	=========
+		180422
+		190921
+		201620
+		212519
+		223618
+
+	Input-2:
+	========
+		5
+		9
+	Output-2:
+	========
+		500409
+		600908
+		701607
+		802506
+		903605	
