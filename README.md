@@ -14,3 +14,8 @@
 ## Day-03(03-03-2022):
   - Conditional Statements with sample examples on each
   - Control Statements (for) with sample examples on it
+
+## Day-04(04-03-2022):
+  - Control Statements (while) with sample examples on it
+  - Jumping Statements with sample examples on each
+  - Inner Loops with sample examples on each
