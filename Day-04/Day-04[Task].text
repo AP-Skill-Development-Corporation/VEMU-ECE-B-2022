@@ -1,0 +1,29 @@
+Task:
+====
+	- Concepts:
+	===========
+		- Functions and its types
+		- Functions and argument types
+		- Data Structures [List,Tuple,Set,String and Dictionary]
+
+Task-1:
+=======
+	Input-1:
+		2394
+	Output-1:
+		2 3 4 9
+
+	Input-2:
+		25973
+	Output-2:
+		2 5 0 9 0 7 0 3 0
+
+	Input-3:
+		324682
+	Output-3:
+		2 3 4 0 6 0 8 0 2 0
+
+	Input-4:
+		1359
+	Output:
+		0 1 0 3 0 5 0 9
