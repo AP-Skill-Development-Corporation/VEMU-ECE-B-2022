@@ -19,3 +19,8 @@
   - Control Statements (while) with sample examples on it
   - Jumping Statements with sample examples on each
   - Inner Loops with sample examples on each
+
+## Day-05(05-03-2022):
+  - Functions and its types
+  - Data Structures explanation
+  - List,Tuple and its methods
